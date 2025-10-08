@@ -100,6 +100,15 @@
             <mxPoint x="140" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I4DnljikiBGqep7M0Yuy-12" value="Lewat Wifi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4DnljikiBGqep7M0Yuy-13" value="Lewat Wifi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4DnljikiBGqep7M0Yuy-15" value="Lewat Wifi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
